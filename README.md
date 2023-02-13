@@ -1,4 +1,2 @@
 # Demo
----
-
-This Demo is for testing Github ^-^
+THIS IS THE README FILE.
